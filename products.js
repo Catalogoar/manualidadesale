@@ -5,7 +5,7 @@ const PRODUCTS = [
         name: "Agarraderas Estampadas",
         description: "Variedades de colores y diseños",
         price: 4000,
-        image: "https://tu-dominio.com/imagenes/agarradera.jpg"
+        image: "images/agarradera.jpg"
     },
     {
         id: 2,
